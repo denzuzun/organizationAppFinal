@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4119D1F3-42B4-4AEF-8173-30832D8FACA3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09E19251-950F-46F9-AD7C-75CC2D8AA299"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrganizerApp/Screens/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "setData(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09E19251-950F-46F9-AD7C-75CC2D8AA299 - fdd7e7cacf155f6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OrganizerApp.ProfileViewController.setData(model: OrganizerApp.OrganizeModel) -&gt; ()"
+                  moduleName = "OrganizerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ademtarhan/Developer/operation/OrganizerApp/OrganizerApp/Screens/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "09E19251-950F-46F9-AD7C-75CC2D8AA299 - fdd7e7cacf155f4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OrganizerApp.ProfileViewController.setData(model: OrganizerApp.OrganizeModel) -&gt; ()"
+                  moduleName = "OrganizerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ademtarhan/Developer/operation/OrganizerApp/OrganizerApp/Screens/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70CFFBC2-D121-4D5E-86DC-F393CE9753B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrganizerApp/Screens/Description/DescriptionPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70CFFBC2-D121-4D5E-86DC-F393CE9753B4 - b5e55540b434b00e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OrganizerApp.DescriptionPresenter.getData() -&gt; ()"
+                  moduleName = "OrganizerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ademtarhan/Developer/operation/OrganizerApp/OrganizerApp/Screens/Description/DescriptionPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "70CFFBC2-D121-4D5E-86DC-F393CE9753B4 - 4c3307e18318863f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OrganizerApp.EventModel, OrganizerApp.FirebaseError&gt;) -&gt; () in OrganizerApp.DescriptionPresenter.getData() -&gt; ()"
+                  moduleName = "OrganizerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ademtarhan/Developer/operation/OrganizerApp/OrganizerApp/Screens/Description/DescriptionPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "70CFFBC2-D121-4D5E-86DC-F393CE9753B4 - 4c3307e18318863f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OrganizerApp.EventModel, OrganizerApp.FirebaseError&gt;) -&gt; () in OrganizerApp.DescriptionPresenter.getData() -&gt; ()"
+                  moduleName = "OrganizerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ademtarhan/Developer/operation/OrganizerApp/OrganizerApp/Screens/Description/DescriptionPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D75E2E0-5102-4E80-B8F8-51B492F16BC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrganizerApp/Screens/Description/DescriptionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "setData(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FB9A32E-E457-44E6-A0A1-4ED55D65DB46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrganizerApp/Screens/Description/DescriptionPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

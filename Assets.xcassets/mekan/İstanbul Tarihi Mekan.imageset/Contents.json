@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "İstanbul Tarihi Mekan.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "İstanbul Tarihi Mekan 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "İstanbul Tarihi Mekan 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
